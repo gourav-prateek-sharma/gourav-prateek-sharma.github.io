@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GP Sharma / Postdoctoral Researcher"
+title                    : "GP Sharma"
 title_separator          : "-"
 name                     : &name "Gourav Prateek Sharma"
 description              : &description "Postdoctoral Researcher (EECS, KTH)"
