@@ -10,10 +10,6 @@ author_profile: true
 
 
 
-## PhD Supervision
-
-
-
 ## Master Students
 
 | Name          | Year | Topic                                                                     |   |
