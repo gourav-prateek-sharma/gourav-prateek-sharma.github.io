@@ -27,7 +27,7 @@ Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling fo
 * Gourav Prateek Sharma, Didier Colle, Wouter Tavernier and Mario Pickavet,"[On Decomposition and Deployment of Virtualized Media Services](https://ieeexplore.ieee.org/abstract/document/9511328)," IEEE Transactions on Broadcasting, vol. 67, no. 3, 2021. [pdf](https://gourav-prateek-sharma.github.io/files/publications/deploy_decomp_mfv.pdf)
 
 ## 2020
-* Gourav Prateek Sharma, Wouter Tavernier, Didier Colle and Mario Pickavet, "[Resource allocation for Virtual Media Functions](https://ieeexplore.ieee.org/abstract/document/9264280)," IEEE Conference on Multimedia Computing, Networking and Applications (MCNA2020), Valencia, Spain, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/resource_improv_vmf.pdf)
+* Gourav Prateek Sharma, Wouter Tavernier, Didier Colle and Mario Pickavet, "[Improving Resource allocation for Virtual Media Functions](https://ieeexplore.ieee.org/abstract/document/9264280)," IEEE Conference on Multimedia Computing, Networking and Applications (MCNA2020), Valencia, Spain, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/resource_improv_vmf.pdf)
 
 * Gourav Prateek Sharma, Wouter Tavernier, Didier Colle and Mario Pickavet, "[VNF-AAPC: Accelerator-aware VNF placement and chaining](https://www.sciencedirect.com/science/article/pii/S138912862030058X)", Computer Networks, vol. 177, no. 107329, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/vnf_aapc.pdf)
 
@@ -37,6 +37,8 @@ Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling fo
 * Gourav Prateek Sharma, Wouter Tavernier, Didier Colle and Mario Pickavet, "[Dynamic Hardware-Acceleration of VNFs in NFV Environments](https://ieeexplore.ieee.org/abstract/document/8768671)," Sixth International Conference on Software Defined Systems (SDS), Rome, Italy, 2019, pp. 254-259. [pdf](https://gourav-prateek-sharma.github.io/files/publications/dynamic_vnf_accel.pdf)
 
 * Gourav Prateek Sharma, Wouter Tavernier, Didier Colle and Mario Pickavet, "[VNF-AAP: Accelerator-aware Virtual Network Function Placement](https://ieeexplore.ieee.org/abstract/document/9040061)," IEEE Conference on NFV-SDN, Dallas, USA, 2019. [pdf](https://gourav-prateek-sharma.github.io/files/publications/vnf_aap.pdf)
+
+* Gourav Prateek Sharma, Wouter Tavernier, Didier Colle and Mario Pickavet, "[Dynamic accelerator provisioning for SSH tunnels in NFV environments](https://ieeexplore.ieee.org/abstract/document/8806690)," 2019 IEEE Conference on Network Softwarization (NetSoft), Paris, France, 2019, pp. 242-244. [pdf](https://gourav-prateek-sharma.github.io/files/publications/dynamic_ssh_accel.pdf)
 
 
 ## 2017
