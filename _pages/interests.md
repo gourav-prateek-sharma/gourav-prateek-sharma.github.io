@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Interests"
+permalink: /interests/
 author_profile: true
 redirect_from:
-  - /resume
+  - /miscellaneous
 ---
 
 {% include base_path %}
 
-Badminton, Mindfullness and Yoga
+I like to play badminton when I have time.

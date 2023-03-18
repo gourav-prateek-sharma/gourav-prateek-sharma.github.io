@@ -6,6 +6,13 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Publications"
+    url: /publications/
+
+  - talks: "Talks"
+    url: /talks/
+
   - title: "Interests"
     url: /interests/
     
+

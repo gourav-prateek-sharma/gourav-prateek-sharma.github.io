@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Division of Information Science and Engineering (School of EECS), working with Prof. James Gross since October 2022. I received my Ph.D. from IDLab, Ghent University in Belgium, where I was supervised by Prof. Wouter Tavernier and Prof. Didier Colle. My Ph.D. dissertation work involved developing and analyzing optimization algorithms for efficient resource allocation in telecom and media broadcast networks.
+Gourav Prateek Sharma is a postdoctoral researcher in the Division of Information Science and Engineering (School of EECS), working with Prof. James Gross since October 2022.
+He received his Ph.D. from IDLab, Ghent University in June 2022, where he was supervised by Prof. Wouter Tavernier and Prof. Didier Colle. His Ph.D. [dissertation]() work involved developing and analyzing optimization algorithms for efficient resource allocation in telecom and media broadcast networks. 
+
