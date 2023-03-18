@@ -7,7 +7,7 @@ TODO list
 	1. NGPaas
 	2. D6G
 3. Students page table
-	1. Resaerch project students
+	1. Research project students
 	2. supervision at KTH
 
 4. Fix talks page
