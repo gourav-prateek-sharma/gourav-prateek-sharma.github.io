@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found [here](https://gourav-prateek-sharma.github.io/files/gourav_CV_acad.pdf).
+My CV (pdf) can be found [here](https://gourav-prateek-sharma.github.io/files/gourav_CV_acad.pdf).
