@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Master Students
+## Master thesis supervision
 
 | Name                  | Year      | Topic                                                                                 |
 |-----------------------|-----------|---------------------------------------------------------------------------------------|
