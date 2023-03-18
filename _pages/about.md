@@ -16,5 +16,5 @@ My research is primarily in the area of Time-sensitive Networking ([TSN](https:/
 Currently, we are exploring these research topics within the context of an EU research project called [DETERMINISTIC6G](https://deterministic6g.eu/).
 
 ## Contact
-If you have any questions or would like to discuss potential collaboration opportunities, please feel free to drop me an [email](gpsharma@kth.se). I'm always open to new ideas and collaborations in the above research fields.
+If you have any questions or would like to discuss potential collaboration opportunities, please feel free to drop me an [email](mailto:gpsharma@kth.se). I'm always open to new ideas and collaborations in the above research fields.
 
