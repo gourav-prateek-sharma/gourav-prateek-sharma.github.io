@@ -16,10 +16,6 @@ author_profile: true
 
 ## Master Students
 
-| Name          | Year | Topic                                                                     |
-|---------------|------|---------------------------------------------------------------------------|
-| Jakob Miserez | 2022 | Routing protocols exploiting queue information for deterministic networks |
-|               |      |                                                                           |
-|               |      |                                                                           |
-
-## 
+| Name          | Year | Topic                                                                     |   |
+|---------------|------|---------------------------------------------------------------------------|---|
+| Jakob Miserez | 2022 | Routing protocols exploiting queue information for deterministic networks |   |

@@ -6,13 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - talks: "Talks"
-    url: /talks/
-
   - title: "Students"
     url: /students/
 
   - title: "Interests"
     url: /interests/
-    
 
+  - talks: "Talks"
+    url: /talks/

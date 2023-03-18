@@ -43,4 +43,4 @@ Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling fo
 * 
 
 ## 2017
-* Gourav Prateek Sharma, Stefan Preußler and Thomas Schneider, "Precise Optical Frequency Shifting Using Stimulated Brillouin Scattering in Optical Fibers," in IEEE Photonics Technology Letters, vol. 29, no. 17, pp. 1467-1470, 1 Sept.1, 2017. [pdf](https://gourav-prateek-sharma.github.io/files/_.pdf)
+* Gourav Prateek Sharma, Stefan Preußler and Thomas Schneider, "Precise Optical Frequency Shifting Using Stimulated Brillouin Scattering in Optical Fibers," in IEEE Photonics Technology Letters, vol. 29, no. 17, pp. 1467-1470, 1 Sept.1, 2017. [pdf](https://gourav-prateek-sharma.github.io/files/precise_opt_freq_shift.pdf)
