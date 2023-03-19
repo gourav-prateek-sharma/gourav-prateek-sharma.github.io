@@ -9,10 +9,10 @@ main:
   - title: "Students"
     url: /students/
 
-  - talks: "Talks"
+  - title: "Talks"
     url: /talks/
 
-  - test: "Test"
+  - title: "Test"
     url: /test/
 
   - title: "Interests"
