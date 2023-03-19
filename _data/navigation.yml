@@ -12,6 +12,9 @@ main:
   - talks: "Talks"
     url: /talks/
 
+  - test: "Test"
+    url: /test/
+
   - title: "Interests"
     url: /interests/
 

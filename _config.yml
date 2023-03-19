@@ -82,7 +82,7 @@ author:
   location         : "Stockholm, Sweden"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=j2hO1xoAAAAJ&hl=en"
-  email            :
+  email            : "gpsharma@kth.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/gourav-prateek-sharma-a1163b65/
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6328-0113"
   pinterest        :
   soundcloud       :
