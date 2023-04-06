@@ -13,8 +13,11 @@ author_profile: true
 
 
 ## 2023
+
+* Gourav Prateek Sharma, Dhruvin Patel, Joachim Sachs, Marilet De Andrade, Janos Farkas, Janos Harmatos, Balazs Varga, Hans-Peter Bernhard, Raheeb Muzaffar, Mahin K. Atiq, Frank Duerr, Dietmar Bruckner, Edgardo Montesdeoca, Drissa Houatra, Hongwei Zhang and James Gross, "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," Submitted to IEEE Access. [pdf])(https://arxiv.org/pdf/2304.01299.pdf)
+
 * Gourav Prateek Sharma, Wouter Tavernier, Didier Colle, Mario Pickavet,
-Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," Submitted to IEEE Transactions on Network and Service Management. [pdf](https://gourav-prateek-sharma.github.io/files/_.pdf)
+Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," Submitted to IEEE Transactions on Network and Service Management.
 
 * Jakob Miserez, Gourav Prateek Sharma and Wouter Tavernier, "Routing protocols exploiting queue information for deterministic networks," International Conference on the Design of Reliable Communication Networks DRCN 2023, Vilanov, Spain, 2023. [pdf](https://gourav-prateek-sharma.github.io/files/publications/routing_proto_queue.pdf)
 
