@@ -14,12 +14,12 @@ author_profile: true
 
 ## 2023
 
-* Gourav Prateek Sharma, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," _Submitted to IEEE Access_. [pdf](https://arxiv.org/pdf/2304.01299.pdf)
+* Gourav Prateek Sharma, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," Submitted to _IEEE Access_. [pdf](https://arxiv.org/pdf/2304.01299.pdf)
 
 * Gourav Prateek Sharma, Wouter Tavernier, Didier Colle, Mario Pickavet,
 Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," Under review in _IEEE Transactions on Network and Service Management_.
 
-* Jakob Miserez, Gourav Prateek Sharma and Wouter Tavernier, "Routing protocols exploiting queue information for deterministic networks," _International Conference on the Design of Reliable Communication Networks DRCN 2023_, Vilanova, Spain, 2023. [pdf](https://gourav-prateek-sharma.github.io/files/publications/routing_proto_queue.pdf)
+* Jakob Miserez, Gourav Prateek Sharma and Wouter Tavernier, "[Routing protocols exploiting queue information for deterministic networks](https://ieeexplore.ieee.org/abstract/document/10108382)," _International Conference on the Design of Reliable Communication Networks DRCN 2023_, Vilanova, Spain, 2023. [pdf](https://gourav-prateek-sharma.github.io/files/publications/routing_proto_queue.pdf)
 
 ## 2022
 * Gourav Prateek Sharma, Wouter Tavernier, Didier Colle and Mario Pickavet, "[Routing and scheduling for _1+1_ protected DetNet flows](https://www.sciencedirect.com/science/article/pii/S1389128622001372)," _Computer Networks_, vol. 211, 2022. [pdf](https://gourav-prateek-sharma.github.io/files/publications/1+1_rtsch_detnet.pdf)
@@ -45,4 +45,4 @@ Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling fo
 
 
 ## 2017
-* Gourav Prateek Sharma, Stefan Preußler and Thomas Schneider, "[Precise Optical Frequency Shifting Using Stimulated Brillouin Scattering in Optical Fibers](https://ieeexplore.ieee.org/abstract/document/7987017/)," _IEEE Photonics Technology Letters_, vol. 29, no. 17, pp. 1467-1470, 1 Sept.1, 2017. [pdf](https://gourav-prateek-sharma.github.io/files/precise_opt_freq_shift.pdf)
+* Gourav Prateek Sharma, Stefan Preußler and Thomas Schneider, "[Precise Optical Frequency Shifting Using Stimulated Brillouin Scattering in Optical Fibers](https://ieeexplore.ieee.org/abstract/document/7987017/)," _IEEE Photonics Technology Letters_, vol. 29, no. 17, pp. 1467-1470, 2017. [pdf](https://gourav-prateek-sharma.github.io/files/precise_opt_freq_shift.pdf)
