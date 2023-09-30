@@ -13,9 +13,12 @@ author_profile: true
 
 
 ## 2023
- * Samie Mostafavi, Gourav Prateek Sharma and James Gross, "Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities," Accepted in _IEEE Globecom 2023_. [pdf](https://arxiv.org/pdf/2307.10648.pdf)
 
-* Gourav Prateek Sharma, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," Accepted in _IEEE Access_. [pdf](https://arxiv.org/pdf/2304.01299.pdf)
+* Gourav Prateek Sharma, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," Published in _IEEE Access_,  doi: 10.1109/ACCESS.2023.3316605. [pdf](https://arxiv.org/pdf/2304.01299.pdf)
+
+* Samie Mostafavi, Vishnu Narayanan Moothedath, Stefan Rönngren, Neelabhro Roy, Gourav Prateek Sharma, Sangwon Seo, Manuel Olguín Muñoz  and James Gross, "ExPECA: An Experimental Platform for Trustworthy Edge Computing," Accepted in _ACM TEC 2023_. [pdf]()
+ 
+ * Samie Mostafavi, Gourav Prateek Sharma and James Gross, "Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities," Accepted in _IEEE Globecom 2023_. [pdf](https://arxiv.org/pdf/2307.10648.pdf)
 
 * Gourav Prateek Sharma, Wouter Tavernier, Didier Colle, Mario Pickavet,
 Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," Under review in _IEEE Transactions on Network and Service Management_.
