@@ -16,11 +16,11 @@ author_profile: true
 
 * **Gourav Prateek Sharma**, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," Published in _IEEE Access_,  _IEEE Access_, vol. 11, pp. 106898-106923, 2023. [pdf](https://arxiv.org/pdf/2304.01299.pdf)
 
-* Samie Mostafavi, Vishnu Narayanan Moothedath, Stefan Rönngren, Neelabhro Roy, **Gourav Prateek Sharma**, Sangwon Seo, Manuel Olguín Muñoz  and James Gross, "ExPECA: An Experimental Platform for Trustworthy Edge Computing," Accepted in _ACM TEC 2023_. [pdf]()
+* Samie Mostafavi, Vishnu Narayanan Moothedath, Stefan Rönngren, Neelabhro Roy, **Gourav Prateek Sharma**, Sangwon Seo, Manuel Olguín Muñoz  and James Gross, "ExPECA: An Experimental Platform for Trustworthy Edge Computing," Accepted in _ACM TEC 2023_. [pdf](https://arxiv.org/abs/2311.01279)
  
 * Samie Mostafavi, **Gourav Prateek Sharma** and James Gross, "Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities," Accepted in _IEEE Globecom 2023_. [pdf](https://arxiv.org/pdf/2307.10648.pdf)
 
-* **Gourav Prateek Sharma**, Wouter Tavernier, Didier Colle, Mario Pickavet, Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," Under review in _IEEE Transactions on Network and Service Management_.
+* **Gourav Prateek Sharma**, Wouter Tavernier, Didier Colle, Mario Pickavet, Jetmir Haxhibeqiri, Jeroen Hoebeke and Ingrid Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," Under review in _Journal of Network and Systems Management_.
 
 * Jakob Miserez, **Gourav Prateek Sharma** and Wouter Tavernier, "[Routing protocols exploiting queue information for deterministic networks](https://ieeexplore.ieee.org/abstract/document/10108382)," _International Conference on the Design of Reliable Communication Networks DRCN 2023_, Vilanova, Spain, 2023. [pdf](https://gourav-prateek-sharma.github.io/files/publications/routing_proto_queue.pdf)
 

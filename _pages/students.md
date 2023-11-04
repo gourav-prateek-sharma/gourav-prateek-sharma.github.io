@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Master thesis supervision
+## Master thesis supervision at UGent
 
 | Name                  | Year      | Topic                                                                                 |
 |-----------------------|-----------|---------------------------------------------------------------------------------------|
