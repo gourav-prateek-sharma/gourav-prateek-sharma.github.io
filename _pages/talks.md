@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-**
 
 **🗣️** June 7th, 2023 - "Challenges and directions for Deterministic Communication in 6G," [Special session on Dependable wireless communication systems and deterministic 6G communication](https://www.eucnc.eu/programme/special-sessions/special-session-3/), EuCNC & 6G Summit 2023,  Gotherberg, Sweden
 
