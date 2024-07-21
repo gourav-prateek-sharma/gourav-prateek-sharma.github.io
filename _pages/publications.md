@@ -15,6 +15,8 @@ author_profile: true
 
 **🎤** S. Mostafavi, M. Tillner, **G.P. Sharma**, and J. Gross, "EDAF: An End-to-End Delay Analytics Framework for 5G-and-Beyond Networks," Accepted at _IEEE INFOCOM Workshops 2024 - CNERT_. [pdf](https://arxiv.org/pdf/2401.09856)
 
+**📝** **G.P. Sharma**, W. Tavernier, D. Colle, M. Pickavet, J. Haxhibeqiri, J. Hoebeke, and I. Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," _Journal of Network and Systems Management_, vol. 32, no. 3, p. 65, 2024
+
 
 ## 2023
 
@@ -23,8 +25,6 @@ author_profile: true
 **🎤** S. Mostafavi, V.N. Moothedath, S. Rönngren, N. Roy, **G.P. Sharma**, S. Seo, M.O. Muñoz, and J. Gross, "ExPECA: An Experimental Platform for Trustworthy Edge Computing," _ACM TEC 2023_, Wilmington, DE, USA, 2023. [pdf](https://arxiv.org/abs/2311.01279)
  
 **🎤** S. Mostafavi, **G.P. Sharma**, and J. Gross, "Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities," _IEEE Globecom 2023_, Kuala Lumpur, Malaysia, 2023, . [pdf](https://arxiv.org/pdf/2307.10648.pdf)
-
-**📝** **G.P. Sharma**, W. Tavernier, D. Colle, M. Pickavet, J. Haxhibeqiri, J. Hoebeke, and I. Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," Under review in _Journal of Network and Systems Management_.
 
 **🎤** J. Miserez, **G.P. Sharma**, and W. Tavernier, "Routing protocols exploiting queue information for deterministic networks," _International Conference on the Design of Reliable Communication Networks DRCN 2023_, Vilanova, Spain, 2023. [pdf](https://gourav-prateek-sharma.github.io/files/publications/routing_proto_queue.pdf)
 
