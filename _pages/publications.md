@@ -11,7 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+## 2025
+**📝** S. Egger, J. Gross, J. Sachs, **G.P. Sharma**, C. Becker, and F. Dürr, "End-to-End Reliability in Wireless IEEE 802.1 Qbv Time-Sensitive Networks," _arXiv preprint arXiv:2502.11595_. [pdf](https://arxiv.org/pdf/2502.11595)
+
 ## 2024
+
+**🎤** N. Roy, M.H. Dhullipalla, **G.P. Sharma**, D.V. Dimarogonas, and J. Gross, "Quality of Control based Resource Dimensioning for Collaborative Edge Robotics," _arXiv preprint arXiv:2411.07405_. [pdf](https://arxiv.org/pdf/2411.07405)
 
 **🎤** S. Mostafavi, M. Tillner, **G.P. Sharma**, and J. Gross, "EDAF: An End-to-End Delay Analytics Framework for 5G-and-Beyond Networks," Accepted at _IEEE INFOCOM Workshops 2024 - CNERT_. [pdf](https://arxiv.org/pdf/2401.09856)
 
