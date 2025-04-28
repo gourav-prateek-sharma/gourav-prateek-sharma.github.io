@@ -12,6 +12,12 @@ author_profile: true
 {% include base_path %}
 
 ## 2025
+
+**📝** S. Egger, F. Dürr, B. Varga, M. De Andrade, **G.P. Sharma**, J. Sachs, J. Harmatos, and J. Gross, "Wireless-aware TSN Engineering: Implications for 5G and Upcoming 6G Networks," _IEEE Network_, 2025.
+
+**📝** S. Mostafavi, **G.P. Sharma**, A. Traboulsi, and J. Gross, "Probabilistic Delay Forecasting in 5G Using Recurrent and Attention-Based Architectures," _arXiv preprint arXiv:2503.15297_. [pdf](https://arxiv.org/pdf/2503.15297)
+
+
 **📝** S. Egger, J. Gross, J. Sachs, **G.P. Sharma**, C. Becker, and F. Dürr, "End-to-End Reliability in Wireless IEEE 802.1 Qbv Time-Sensitive Networks," _arXiv preprint arXiv:2502.11595_. [pdf](https://arxiv.org/pdf/2502.11595)
 
 ## 2024
