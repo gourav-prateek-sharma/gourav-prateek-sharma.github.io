@@ -18,7 +18,7 @@ author_profile: true
 **📝** S. Mostafavi, **G.P. Sharma**, A. Traboulsi, and J. Gross, "Probabilistic Delay Forecasting in 5G Using Recurrent and Attention-Based Architectures," _arXiv preprint arXiv:2503.15297_. [pdf](https://arxiv.org/pdf/2503.15297)
 
 
-**📝** S. Egger, J. Gross, J. Sachs, **G.P. Sharma**, C. Becker, and F. Dürr, "End-to-End Reliability in Wireless IEEE 802.1 Qbv Time-Sensitive Networks," _arXiv preprint arXiv:2502.11595_. [pdf](https://arxiv.org/pdf/2502.11595)
+**🎤** S. Egger, J. Gross, J. Sachs, **G.P. Sharma**, C. Becker, and F. Dürr, "End-to-End Reliability in Wireless IEEE 802.1 Qbv Time-Sensitive Networks," _arXiv preprint arXiv:2502.11595_. [pdf](https://arxiv.org/pdf/2502.11595)
 
 ## 2024
 
