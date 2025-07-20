@@ -15,5 +15,5 @@ I have done my master's in Optoelectronics and Optical communications from IIT D
 My research is primarily in the area of Time-sensitive Networking ([TSN](https://www.wikiwand.com/en/Time-Sensitive_Networking)) and Deterministic Networking ([DetNet](https://www.wikiwand.com/en/Deterministic_Networking)) and their integration with wireless technologies (e.g., WiFi and 5G URLLC). In particular, I am interested in employing data-driven methods for the latency characterization of RAN for its seamless integration with TSN. 
 
 ## Contact
-If you have any questions or would like to discuss potential collaboration opportunities, please feel free to drop me an [email](mailto:gourav.sharma@nitkkr.ac.in). I'm always open to new ideas and collaborations in the above-mentioned research areas.
+If you have any questions or would like to discuss potential collaboration opportunities, please feel free to drop me an [email](mailto:gourav.sharma@nitkkr.ac.in). I am always open to new ideas and collaborations in the above-mentioned research areas.
 

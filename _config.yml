@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "GP Sharma"
 title_separator          : "-"
 name                     : &name "Gourav Prateek Sharma"
-description              : &description "Postdoctoral Researcher (EECS, KTH)"
+description              : &description "Assistant Professor (ECE, NIT Kurukshetra)"
 url                      : https://gourav-prateek-sharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gourav-prateek-sharma/gourav-prateek-sharma.github.io"
@@ -78,11 +78,11 @@ analytics:
 author:
   name             : "Dr. Gourav Prateek Sharma"
   avatar           : "profile_pic_2MB.jpg"
-  bio              : "Postdoctoral researcher in the Division of Information Science and Engineering (School of EECS), KTH"
-  location         : "Stockholm, Sweden"
+  bio              : "Assistant Professor, Department of Electronics and Communication Engineering, NIT Kurukshetra"
+  location         : "Haryana, India"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=j2hO1xoAAAAJ&hl=en"
-  email            : "gpsharma@kth.se"
+  email            : "gourav.sharma@nitkkr.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
