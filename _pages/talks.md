@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+[comment]: <> (TODO: indiscon talk, summer school linz, ...)
+
+
+**🗣️** September 16th, 2024 - Joachim Sachs and Gourav Prateek Sharma, "5G latency analysis and possible improvements," [NTERACT Training Day](https://interactca20120.org/wp-content/uploads/2024/07/training_day_Linz_interact.pdf).
+
+**🗣️** August 22nd, 2024 - Gourav Prateek Sharma, "Dependable time-critical communications in 6G" [Invited talk at IEEE Indiscon 2024 
+]().
+
 **🗣️** June 14th, 2024 - Joachim Sachs and Gourav Prateek Sharma, "5G latency analysis and possible improvements," [6G Programmable Deterministic Webinar series
 ](https://www.youtube.com/watch?v=IufPDoU9oUg/), Online.
 
