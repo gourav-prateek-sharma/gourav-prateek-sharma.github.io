@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+## 2026
+
+**📝** N. Roy, M.H. Dhullipalla, **G.P. Sharma**, S. Sandberg, D.V. Dimarogonas, and J. Gross, "Quality of Control-Based Control-Communication Co-Design for Collaborative Robotics," _IEEE Transactions on Industrial Informatics_, 2026, pp. 1-12, doi:10.1109/TII.2026.3664663.
+
 ## 2025
 
 **📝** S. Egger, F. Dürr, B. Varga, M. De Andrade, **G.P. Sharma**, J. Sachs, J. Harmatos, and J. Gross, "Wireless-aware TSN Engineering: Implications for 5G and Upcoming 6G Networks," _IEEE Network_, 2025.
