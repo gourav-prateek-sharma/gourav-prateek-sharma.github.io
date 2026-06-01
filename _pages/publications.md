@@ -13,6 +13,8 @@ author_profile: true
 
 ## 2026
 
+**🎤** **G.P. Sharma**, D. Singh, and J. Gross, "Robust Base Station Placement in Agricultural IoT via Bayesian Optimization," in *International Conference on Signal Processing and Communications (SPCOM) 2026*.
+
 **📝** N. Roy, M.H. Dhullipalla, **G.P. Sharma**, S. Sandberg, D.V. Dimarogonas, and J. Gross, "Quality of Control-Based Control-Communication Co-Design for Collaborative Robotics," _IEEE Transactions on Industrial Informatics_, 2026, pp. 1-12, doi:10.1109/TII.2026.3664663.
 
 ## 2025
