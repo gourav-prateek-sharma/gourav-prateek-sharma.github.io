@@ -13,7 +13,7 @@ author_profile: true
 
 ## 2026
 
-**📝** N. Mehrnia, **G.P. Sharma**, S. Mostafavi, A. Johnsson, S. Coleri, C. Fischione, and J. Gross, "AI-Based KPI Prediction Methods in Future 6G Networks: A Survey," *IEEE Communications Surveys & Tutorials*, 2026. \[[pdf](https://arxiv.org/pdf/2606.01972)\]
+**📝** N. Mehrnia, **G.P. Sharma**, S. Mostafavi, A. Johnsson, S. Coleri, C. Fischione, and J. Gross, "AI-Based KPI Prediction Methods in Future 6G Networks: A Survey," Under review. \[[pdf](https://arxiv.org/pdf/2606.01972)\]
 
 **🎤** **G.P. Sharma**, D. Singh, and J. Gross, "Robust Base Station Placement in Agricultural IoT via Bayesian Optimization," in *International Conference on Signal Processing and Communications (SPCOM) 2026*.
 
