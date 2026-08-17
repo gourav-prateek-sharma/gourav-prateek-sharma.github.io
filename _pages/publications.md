@@ -13,8 +13,6 @@ author_profile: true
 
 ## 2026
 
-**🎤** N. Roy, M. Hammarling, V.N. Fernandez-Ayala, **G.P. Sharma**, M.H. Dhullipalla, D.V. Dimarogonas, and J. Gross, "Modeling and Validation of Quality of Control for Edge-Offloaded Collaborative Navigation," *arXiv preprint arXiv:2607.14853*, 2026. \[[pdf](https://arxiv.org/abs/2607.14853)\]
-
 **📝** N. Mehrnia, **G.P. Sharma**, S. Mostafavi, A. Johnsson, S. Coleri, C. Fischione, and J. Gross, "AI-Based KPI Prediction Methods in Future 6G Networks: A Survey," Under review. \[[pdf](https://arxiv.org/pdf/2606.01972)\]
 
 **🎤** **G.P. Sharma**, D. Singh, and J. Gross, "Robust Base Station Placement in Agricultural IoT via Bayesian Optimization," in *International Conference on Signal Processing and Communications (SPCOM) 2026*. \[[pdf](https://arxiv.org/abs/2607.00549)\]
