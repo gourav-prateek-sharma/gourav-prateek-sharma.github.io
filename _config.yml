@@ -11,7 +11,7 @@ title                    : "GP Sharma"
 title_separator          : "-"
 name                     : &name "Gourav Prateek Sharma"
 description              : &description "Assistant Professor (ECE, NIT Kurukshetra)"
-url                      : https://gourav-prateek-sharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gouravsharma.xyz # production hostname for canonical URLs and asset links
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gourav-prateek-sharma/gourav-prateek-sharma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
