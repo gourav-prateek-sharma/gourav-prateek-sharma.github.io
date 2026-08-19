@@ -11,71 +11,88 @@ author_profile: true
 
 {% include base_path %}
 
-## 2026
+## Journal Articles
 
-**📝** N. Mehrnia, **G.P. Sharma**, S. Mostafavi, A. Johnsson, S. Coleri, C. Fischione, and J. Gross, "AI-Based KPI Prediction Methods in Future 6G Networks: A Survey," Under review. \[[pdf](https://arxiv.org/pdf/2606.01972)\]
+### 2026
 
-**🎤** **G.P. Sharma**, D. Singh, and J. Gross, "Robust Base Station Placement in Agricultural IoT via Bayesian Optimization," in *International Conference on Signal Processing and Communications (SPCOM) 2026*. \[[pdf](https://arxiv.org/abs/2607.00549)\]
+**📝** N. Roy, M.H. Dhullipalla, **G.P. Sharma**, S. Sandberg, D.V. Dimarogonas, and J. Gross, "Quality of Control-Based Control-Communication Co-Design for Collaborative Robotics," _IEEE Transactions on Industrial Informatics_, 2026, pp. 1-12. [doi](https://doi.org/10.1109/TII.2026.3664663)
 
-**📝** N. Roy, M.H. Dhullipalla, **G.P. Sharma**, S. Sandberg, D.V. Dimarogonas, and J. Gross, "Quality of Control-Based Control-Communication Co-Design for Collaborative Robotics," _IEEE Transactions on Industrial Informatics_, 2026, pp. 1-12, doi:10.1109/TII.2026.3664663.
+### 2025
 
-## 2025
+**📝** S. Egger, F. Dürr, B. Varga, M. De Andrade, **G.P. Sharma**, J. Sachs, J. Harmatos, and J. Gross, "Wireless-aware TSN Engineering: Implications for 5G and Upcoming 6G Networks," _IEEE Network_, 2025. [doi](https://doi.org/10.1109/MNET.2025.3556002)
 
-**📝** S. Egger, F. Dürr, B. Varga, M. De Andrade, **G.P. Sharma**, J. Sachs, J. Harmatos, and J. Gross, "Wireless-aware TSN Engineering: Implications for 5G and Upcoming 6G Networks," _IEEE Network_, 2025.
+### 2024
 
-**📝** S. Mostafavi, **G.P. Sharma**, A. Traboulsi, and J. Gross, "Probabilistic Delay Forecasting in 5G Using Recurrent and Attention-Based Architectures," _arXiv preprint arXiv:2503.15297_. [pdf](https://arxiv.org/pdf/2503.15297)
+**📝** **G.P. Sharma**, W. Tavernier, D. Colle, M. Pickavet, J. Haxhibeqiri, J. Hoebeke, and I. Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," _Journal of Network and Systems Management_, vol. 32, no. 3, p. 65, 2024. [doi](https://doi.org/10.2139/ssrn.4044572)
 
+### 2023
 
-**🎤** S. Egger, J. Gross, J. Sachs, **G.P. Sharma**, C. Becker, and F. Dürr, "End-to-End Reliability in Wireless IEEE 802.1 Qbv Time-Sensitive Networks," _arXiv preprint arXiv:2502.11595_. [pdf](https://arxiv.org/pdf/2502.11595)
+**📝** **G.P. Sharma**, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," _IEEE Access_, vol. 11, pp. 106898-106923, 2023. [pdf](https://arxiv.org/pdf/2304.01299.pdf) [doi](https://doi.org/10.1109/ACCESS.2023.3316605)
 
-## 2024
+### 2022
 
-**🎤** N. Roy, M.H. Dhullipalla, **G.P. Sharma**, D.V. Dimarogonas, and J. Gross, "Quality of Control based Resource Dimensioning for Collaborative Edge Robotics," _arXiv preprint arXiv:2411.07405_. [pdf](https://arxiv.org/pdf/2411.07405)
+**📝** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Routing and scheduling for _1+1_ protected DetNet flows," _Computer Networks_, vol. 211, 2022. [pdf](https://gourav-prateek-sharma.github.io/files/publications/1+1_rtsch_detnet.pdf) [doi](https://doi.org/10.1016/j.comnet.2022.108960)
 
-**🎤** S. Mostafavi, M. Tillner, **G.P. Sharma**, and J. Gross, "EDAF: An End-to-End Delay Analytics Framework for 5G-and-Beyond Networks," Accepted at _IEEE INFOCOM Workshops 2024 - CNERT_. [pdf](https://arxiv.org/pdf/2401.09856)
+### 2021
 
-**📝** **G.P. Sharma**, W. Tavernier, D. Colle, M. Pickavet, J. Haxhibeqiri, J. Hoebeke, and I. Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," _Journal of Network and Systems Management_, vol. 32, no. 3, p. 65, 2024
+**📝** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Scheduling for media function virtualization," _Future Internet_, vol. 13, no. 7, 2021. [pdf](https://gourav-prateek-sharma.github.io/files/publications/schd_mfv.pdf) [doi](https://doi.org/10.3390/fi13070167)
 
+**📝** **G.P. Sharma**, D. Colle, W. Tavernier, and M. Pickavet, "On Decomposition and Deployment of Virtualized Media Services," _IEEE Transactions on Broadcasting_, vol. 67, no. 3, 2021. [pdf](https://gourav-prateek-sharma.github.io/files/publications/deploy_decomp_mfv.pdf) [doi](https://doi.org/10.1109/TBC.2021.3099740)
 
-## 2023
+### 2020
 
-**📝** **G.P. Sharma**, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," Published in _IEEE Access_, vol. 11, pp. 106898-106923, 2023. [pdf](https://arxiv.org/pdf/2304.01299.pdf)
+**📝** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "VNF-AAPC: Accelerator-aware VNF placement and chaining," _Computer Networks_, vol. 177, no. 107329, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/vnf_aapc.pdf) [doi](https://doi.org/10.1016/j.comnet.2020.107329)
 
-**🎤** S. Mostafavi, V.N. Moothedath, S. Rönngren, N. Roy, **G.P. Sharma**, S. Seo, M.O. Muñoz, and J. Gross, "ExPECA: An Experimental Platform for Trustworthy Edge Computing," _ACM TEC 2023_, Wilmington, DE, USA, 2023. [pdf](https://arxiv.org/abs/2311.01279)
- 
-**🎤** S. Mostafavi, **G.P. Sharma**, and J. Gross, "Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities," _IEEE Globecom 2023_, Kuala Lumpur, Malaysia, 2023, . [pdf](https://arxiv.org/pdf/2307.10648.pdf)
+### 2017
 
-**🎤** J. Miserez, **G.P. Sharma**, and W. Tavernier, "Routing protocols exploiting queue information for deterministic networks," _International Conference on the Design of Reliable Communication Networks DRCN 2023_, Vilanova, Spain, 2023. [pdf](https://gourav-prateek-sharma.github.io/files/publications/routing_proto_queue.pdf)
+**📝** **G.P. Sharma**, S. Preußler, and T. Schneider, "Precise Optical Frequency Shifting Using Stimulated Brillouin Scattering in Optical Fibers," _IEEE Photonics Technology Letters_, vol. 29, no. 17, pp. 1467-1470, 2017. [pdf](https://gourav-prateek-sharma.github.io/files/precise_opt_freq_shift.pdf) [doi](https://doi.org/10.1109/LPT.2017.2729598)
 
-## 2022
+## Conference Papers
 
-**📝** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Routing and scheduling for _1+1_ protected DetNet flows," _Computer Networks_, vol. 211, 2022. [pdf](https://gourav-prateek-sharma.github.io/files/publications/1+1_rtsch_detnet.pdf)
+### 2026
 
-## 2021
+**🎤** **G.P. Sharma**, D. Singh, and J. Gross, "Robust Base Station Placement in Agricultural IoT via Bayesian Optimization," in *International Conference on Signal Processing and Communications (SPCOM) 2026*. [pdf](https://arxiv.org/pdf/2607.00549)
 
-**📝** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Scheduling for media function virtualization," _Future Internet_, vol. 13, no. 7, 2021. [pdf](https://gourav-prateek-sharma.github.io/files/publications/schd_mfv.pdf)
+**🎤** N. Roy, M. Hammarling, V.N. Fernandez-Ayala, **G.P. Sharma**, M.H. Dhullipalla, D.V. Dimarogonas, and J. Gross, "Modeling and Validation of Quality of Control for Edge-Offloaded Collaborative Navigation," _2026 IEEE 104th Vehicular Technology Conference (VTC2026-Fall)_, 2026. [pdf](https://arxiv.org/pdf/2607.14853)
 
-**📝** **G.P. Sharma**, D. Colle, W. Tavernier, and M. Pickavet,"On Decomposition and Deployment of Virtualized Media Services," _IEEE Transactions on Broadcasting_, vol. 67, no. 3, 2021. [pdf](https://gourav-prateek-sharma.github.io/files/publications/deploy_decomp_mfv.pdf)
+### 2025
 
-## 2020
+**🎤** S. Egger, J. Gross, J. Sachs, **G.P. Sharma**, C. Becker, and F. Dürr, "End-to-End Reliability in Wireless IEEE 802.1Qbv Time-Sensitive Networks," _2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS)_, 2025, pp. 1-10. [doi](https://doi.org/10.1109/IWQoS65803.2025.11143396)
+
+### 2024
+
+**🎤** N. Roy, M.H. Dhullipalla, **G.P. Sharma**, D.V. Dimarogonas, and J. Gross, "Quality of Control based Resource Dimensioning for Collaborative Edge Robotics," _arXiv preprint arXiv:2411.07405_. [pdf](https://arxiv.org/pdf/2411.07405) [doi](https://doi.org/10.1109/CCNC54725.2025.10976180)
+
+**🎤** S. Mostafavi, M. Tillner, **G.P. Sharma**, and J. Gross, "EDAF: An End-to-End Delay Analytics Framework for 5G-and-Beyond Networks," _IEEE INFOCOM Workshops 2024 - CNERT_, 2024. [pdf](https://arxiv.org/pdf/2401.09856) [doi](https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620853)
+
+### 2023
+
+**🎤** S. Mostafavi, V.N. Moothedath, S. Rönngren, N. Roy, **G.P. Sharma**, S. Seo, M.O. Muñoz, and J. Gross, "ExPECA: An Experimental Platform for Trustworthy Edge Computing," _ACM TEC 2023_, Wilmington, DE, USA, 2023. [pdf](https://arxiv.org/pdf/2311.01279) [doi](https://doi.org/10.1145/3583740.3626819)
+
+**🎤** S. Mostafavi, **G.P. Sharma**, and J. Gross, "Data-Driven Latency Probability Prediction for Wireless Networks: Focusing on Tail Probabilities," _IEEE Globecom 2023_, Kuala Lumpur, Malaysia, 2023. [pdf](https://arxiv.org/pdf/2307.10648.pdf) [doi](https://doi.org/10.1109/GLOBECOM54140.2023.10437281)
+
+**🎤** J. Miserez, **G.P. Sharma**, and W. Tavernier, "Routing protocols exploiting queue information for deterministic networks," _International Conference on the Design of Reliable Communication Networks DRCN 2023_, Vilanova, Spain, 2023. [pdf](https://gourav-prateek-sharma.github.io/files/publications/routing_proto_queue.pdf) [doi](https://doi.org/10.1109/DRCN57075.2023.10108382)
+
+### 2020
 
 **🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Improving Resource allocation for Virtual Media Functions," _IEEE Conference on Multimedia Computing, Networking and Applications (MCNA2020)_, Valencia, Spain, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/resource_improv_vmf.pdf)
 
-**📝** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "VNF-AAPC: Accelerator-aware VNF placement and chaining," _Computer Networks_, vol. 177, no. 107329, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/vnf_aapc.pdf)
+**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Hardware-accelerator aware VNF-chain recovery," _International Conference on the Design of Reliable Communication Networks DRCN 2020_, Milano, Italy, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/hw_accel_aware_vnf_recov.pdf) [doi](https://doi.org/10.1109/DRCN48652.2020.1570604216)
 
-**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Hardware-accelerator aware VNF-chain recovery," _International Conference on the Design of Reliable Communication Networks DRCN 2020_, Milano, Italy, 2020. [pdf](https://gourav-prateek-sharma.github.io/files/publications/hw_accel_aware_vnf_recov.pdf)
+### 2019
 
-## 2019
+**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Dynamic Hardware-Acceleration of VNFs in NFV Environments," _Sixth International Conference on Software Defined Systems (SDS)_, Rome, Italy, 2019. [pdf](https://gourav-prateek-sharma.github.io/files/publications/dynamic_vnf_accel.pdf) [doi](https://doi.org/10.1109/SDS.2019.8768642)
 
-**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Dynamic Hardware-Acceleration of VNFs in NFV Environments," _Sixth International Conference on Software Defined Systems (SDS)_, Rome, Italy, 2019. [pdf](https://gourav-prateek-sharma.github.io/files/publications/dynamic_vnf_accel.pdf)
+**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "VNF-AAP: Accelerator-aware Virtual Network Function Placement," _IEEE Conference on NFV-SDN_, Dallas, USA, 2019. [pdf](https://gourav-prateek-sharma.github.io/files/publications/vnf_aap.pdf) [doi](https://doi.org/10.1109/NFV-SDN47374.2019.9040061)
 
-**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "VNF-AAP: Accelerator-aware Virtual Network Function Placement," _IEEE Conference on NFV-SDN_, Dallas, USA, 2019. [pdf](https://gourav-prateek-sharma.github.io/files/publications/vnf_aap.pdf)
+**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Dynamic accelerator provisioning for SSH tunnels in NFV environments," _IEEE Conference on Network Softwarization (NetSoft)_, Paris, France, 2019. [pdf](https://gourav-prateek-sharma.github.io/files/publications/dynamic_ssh_accel.pdf) [doi](https://doi.org/10.1109/NETSOFT.2019.8806690)
 
-**🎤** **G.P. Sharma**, W. Tavernier, D. Colle, and M. Pickavet, "Dynamic accelerator provisioning for SSH tunnels in NFV environments,"  _IEEE Conference on Network Softwarization (NetSoft)_, Paris, France, 2019. [pdf](https://gourav-prateek-sharma.github.io/files/publications/dynamic_ssh_accel.pdf)
+## Preprints And Under Review
 
+### 2026
 
-## 2017
+**📝** N. Mehrnia, **G.P. Sharma**, S. Mostafavi, A. Johnsson, S. Coleri, C. Fischione, and J. Gross, "AI-Based KPI Prediction Methods in Future 6G Networks: A Survey," _Under review_, 2026. [pdf](https://arxiv.org/pdf/2606.01972)
 
-**📝**  **G.P. Sharma**, S. Preußler, and T. Schneider, "Precise Optical Frequency Shifting Using Stimulated Brillouin Scattering in Optical Fibers," _IEEE Photonics Technology Letters_, vol. 29, no. 17, pp. 1467-1470, 2017. [pdf](https://gourav-prateek-sharma.github.io/files/precise_opt_freq_shift.pdf)
+### 2025
 
-
+**📝** S. Mostafavi, **G.P. Sharma**, A. Traboulsi, and J. Gross, "Probabilistic Delay Forecasting in 5G Using Recurrent and Attention-Based Architectures," _arXiv preprint arXiv:2503.15297_. [pdf](https://arxiv.org/pdf/2503.15297)
