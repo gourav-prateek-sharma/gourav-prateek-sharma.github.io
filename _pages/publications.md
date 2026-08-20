@@ -23,7 +23,7 @@ author_profile: true
 
 ### 2024
 
-**📝** **G.P. Sharma**, W. Tavernier, D. Colle, M. Pickavet, J. Haxhibeqiri, J. Hoebeke, and I. Moerman, "End-to-End Scheduling for Wired-Wireless Mixed Networks," _Journal of Network and Systems Management_, vol. 32, no. 3, p. 65, 2024. [doi](https://doi.org/10.2139/ssrn.4044572)
+**📝** **G.P. Sharma**, W. Tavernier, D. Colle, M. Pickavet, J. Haxhibeqiri, J. Hoebeke, and I. Moerman, "End-to-End No-wait Scheduling for Time-Triggered Streams in Mixed Wired-Wireless Networks," _Journal of Network and Systems Management_, vol. 32, no. 3, p. 65, 2024. [doi](https://doi.org/10.1007/s10922-024-09837-5)
 
 ### 2023
 
