@@ -12,6 +12,7 @@ I am an Assistant Professor in the [Electronics and Communications Engineering](
 
 ## Recent highlights
 
+- Accepted paper at *IEEE ANTS 2026*: "Conformal Packet Delay Budget Estimation for TSN-5G Networks"
 - Accepted paper at *SPCOM 2026*: "Robust Base Station Placement in Agricultural IoT via Bayesian Optimization"
 - Accepted paper at *VTC2026-Fall*: "Modeling and Validation of Quality of Control for Edge-Offloaded Collaborative Navigation"
 - Recent journal paper in *IEEE Transactions on Industrial Informatics*: "Quality of Control-Based Control-Communication Co-Design for Collaborative Robotics"
@@ -25,6 +26,7 @@ I am an Assistant Professor in the [Electronics and Communications Engineering](
 
 ## Selected publications
 
+- **G.P. Sharma**, "Conformal Packet Delay Budget Estimation for TSN-5G Networks," _IEEE ANTS 2026_.
 - N. Roy, M.H. Dhullipalla, **G.P. Sharma**, S. Sandberg, D.V. Dimarogonas, and J. Gross, "Quality of Control-Based Control-Communication Co-Design for Collaborative Robotics," _IEEE Transactions on Industrial Informatics_, 2026, pp. 1-12. [doi](https://doi.org/10.1109/TII.2026.3664663)
 - **G.P. Sharma**, et al., "Towards Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward," _IEEE Access_, vol. 11, pp. 106898-106923, 2023. [pdf](https://arxiv.org/pdf/2304.01299.pdf) [doi](https://doi.org/10.1109/ACCESS.2023.3316605)
 - N. Roy, M. Hammarling, V.N. Fernandez-Ayala, **G.P. Sharma**, M.H. Dhullipalla, D.V. Dimarogonas, and J. Gross, "Modeling and Validation of Quality of Control for Edge-Offloaded Collaborative Navigation," _2026 IEEE 104th Vehicular Technology Conference (VTC2026-Fall)_, 2026. [pdf](https://arxiv.org/pdf/2607.14853)

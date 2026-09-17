@@ -51,6 +51,8 @@ author_profile: true
 
 ### 2026
 
+**🎤** **G.P. Sharma**, "Conformal Packet Delay Budget Estimation for TSN-5G Networks," _IEEE ANTS 2026_.
+
 **🎤** **G.P. Sharma**, D. Singh, and J. Gross, "Robust Base Station Placement in Agricultural IoT via Bayesian Optimization," in *International Conference on Signal Processing and Communications (SPCOM) 2026*. [pdf](https://arxiv.org/pdf/2607.00549)
 
 **🎤** N. Roy, M. Hammarling, V.N. Fernandez-Ayala, **G.P. Sharma**, M.H. Dhullipalla, D.V. Dimarogonas, and J. Gross, "Modeling and Validation of Quality of Control for Edge-Offloaded Collaborative Navigation," _2026 IEEE 104th Vehicular Technology Conference (VTC2026-Fall)_, 2026. [pdf](https://arxiv.org/pdf/2607.14853)
